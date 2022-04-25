@@ -4,4 +4,4 @@
 
 at this point Corine Land Cover data and Biomass data is not downloaded automatically.
 
-examplory done for arnica montana distribution in Austria
+exemplary done for arnica montana distribution in Austria
